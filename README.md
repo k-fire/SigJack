@@ -2,7 +2,9 @@
 
 **将 DLL 劫持与 SigFlip 签名完美结合的自动化工具**
 
-一个用于将 PE 文件转换为 Shellcode，并通过 SigFlip 将其注入到具有合法数字签名的可执行文件中，实现 DLL 劫持的 Windows GUI 工具。大佬们，点点star吧！
+一个用于将 PE 文件转换为 Shellcode，并通过 SigFlip 将其注入到具有合法数字签名的可执行文件中，实现 DLL 劫持的 Windows GUI 工具。
+
+大佬们，点点star吧！
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg) ![Architecture](https://img.shields.io/badge/arch-x86%20%7C%20x64-green.svg)
 
@@ -302,5 +304,6 @@ SOFTWARE.
 ---
 
 **再次提醒：本工具仅供安全研究和教育目的使用。使用本工具进行未经授权的活动是违法的。作者不对因使用本工具造成的任何损害负责。使用者需自行承担所有法律责任。**
+
 
 
