@@ -9,7 +9,7 @@
 ![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg) ![Architecture](https://img.shields.io/badge/arch-x86%20%7C%20x64-green.svg)
 
 ## 🎨 界面
-<img src="https://raw.githubusercontent.com/k-fire/SigJack/refs/heads/main/SigJack.png" alt="SigJack UI" width="200"/>
+<img src="https://raw.githubusercontent.com/k-fire/SigJack/refs/heads/main/SigJack.png" alt="SigJack UI" width="200"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/k-fire/SigJack/refs/heads/main/Test.png" alt="SigJack UI" height="230"/>
 
 ---
 
@@ -304,6 +304,7 @@ SOFTWARE.
 ---
 
 **再次提醒：本工具仅供安全研究和教育目的使用。使用本工具进行未经授权的活动是违法的。作者不对因使用本工具造成的任何损害负责。使用者需自行承担所有法律责任。**
+
 
 
 
